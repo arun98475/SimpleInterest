@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<AllSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DefaultText1>This is my First Text</DefaultText1>
+  <DefaultText2>This is my second Text</DefaultText2>
+  <DefaultHeader>Welcome To KTS InfoTec Pala</DefaultHeader>
+  <DefaultFooter>All Rights KTS</DefaultFooter>
+  <PageRefreshCounter>1</PageRefreshCounter>
+  <VisitorNumber>47</VisitorNumber>
+</AllSettings>
